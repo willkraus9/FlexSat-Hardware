@@ -1,0 +1,19 @@
+,Name,Quantity,Link (if needed),Description
+Mechanical Parts,,,,
+Aluminum 6061 Plate,Aluminum Plate,1,N/A,Dimensions: 3.175mm x 304.8mm x 1.2192m
+Motor Assembly (3D Printed),Plate to IMU Bracket,2,N/A,Holds Motor Assembly onto plate
+,IMU Bracket,2,N/A,Holds IMUs in place with adjustable orientation
+,Motor Bracket,2,N/A,Holds IMUs in place with adjustable orientation
+Mocap Cage Attachment Assembly,Aluminum Extrusion,4,N/A,Secures aluminum plate to attachment assembly
+,Angle Bracket,4,https://www.amazon.com/Corner-Brackets-Aluminum-Extrusion-Profile/dp/B09YQ3KSC4/ref=sr_1_6?crid=136JORAWXW0HE&keywords=8020%2Baluminum%2Bextrusion&qid=1700066204&sprefix=8020%2Baluminum%2Bextrusion%2B%2Caps%2C88&sr=8-6&th=1,Screw mounts for attachment assembly
+,Pipe Clamp,4,https://www.grainger.com/product/NVENT-CADDY-Pipe-Clamp-Swivel-Loop-1RVC5,Secures attachment assembly to mocap cage
+,Angle Plate,4,N/A,N/A
+Miscellaneous,Encoder Magnet,1,N/A,Magnet for Hall Effect encoder
+Electronic Parts,,,,
+Motor Control,Arduino Uno R4 Minima,1,https://www.amazon.com/dp/B0C78K4CD4?psc=1&ref=ppx_yo2ov_dt_b_product_details,Microcontroller for receiving data and sending motor commands
+,Waveshare SN65HVD230,1,https://www.amazon.com/dp/B0B5DTN62K?psc=1&ref=ppx_yo2ov_dt_b_product_details,CAN Transceiver
+,ODrive Pro,1,https://odriverobotics.com/shop/odrive-pro,Motor control board
+,Herlea X8318S KV100,1,https://www.aliexpress.us/item/3256805690296061.html?src=google&src=google&albch=shopping&acnt=708-803-3821&slnk=&plac=&mtctp=&albbt=Google_7_shopping&gclsrc=aw.ds&albagn=888888&isSmbAutoCall=false&needSmbHouyi=false&src=google&albch=shopping&acnt=708-803-3821&slnk=&plac=&mtctp=&albbt=Google_7_shopping&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en3256805690296061&ds_e_product_merchant_id=586092471&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=19108282527&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9N74zOM4bCoFPBRo7_TaowxpFA824RC_83Yuh3hGchWu_IxRw7U8DIaAptJEALw_wcB&aff_fcid=34b333e9110d4e918780fd31efcb0340-1717005747193-06322-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=34b333e9110d4e918780fd31efcb0340-1717005747193-06322-UneMJZVf&terminal_id=4039bbcedf7846f2b644c1fe4ef6b2b9&afSmartRedirect=y&gatewayAdapt=glo2usa,Brushless DC motor for reaction wheel
+IMU,BNO055,2,https://adafruit.com/product/2472,IMU
+Miscellaneous,Breadboard,1,N/A,Additional wiring support
+,USB Type C - USB Cable,1,N/A,Upload cable to microcontroller
